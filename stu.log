@@ -1,0 +1,10 @@
+2019-10-09 00:36:24.887  INFO 44492 --- [main] c.e.s.SpringbootSsmApplication           : Starting SpringbootSsmApplication on LAPTOP-D6N2SU2F with PID 44492 (D:\IntellijProjects\springboot_ssm\target\classes started by HQLD in D:\IntellijProjects\springboot_ssm)
+2019-10-09 00:36:24.889  INFO 44492 --- [main] c.e.s.SpringbootSsmApplication           : No active profile set, falling back to default profiles: default
+2019-10-09 00:36:26.049  INFO 44492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2019-10-09 00:36:26.070  INFO 44492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-09 00:36:26.070  INFO 44492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-09 00:36:26.178  INFO 44492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-09 00:36:26.179  INFO 44492 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1240 ms
+2019-10-09 00:36:26.559  INFO 44492 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-09 00:36:26.780  INFO 44492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2019-10-09 00:36:26.783  INFO 44492 --- [main] c.e.s.SpringbootSsmApplication           : Started SpringbootSsmApplication in 2.254 seconds (JVM running for 3.32)
